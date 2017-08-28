@@ -6,12 +6,12 @@ which in turn contains one file for each hack. Adding a file to this repository
 is easy, and we describe the file format and the steps to take to add a file
 below.
 
-To see a prettified web site listing these hacks, check out https://astrohackweek.github.io/hacks-collector/.
+To see a prettified web site listing these hacks, check out https://astrohackweek.org/hacks-collector/.
 
 ## Submitting a hack the easy way
 
 Go to [the hack submission web
-app](https://astrohackweek-hack-submitter.herokuapp.com) and enter the
+app](https://ahw-hack-submitter.herokuapp.com) and enter the
 relevant details. This will create a pull request from you automatically,
 which you can modify later if desired (see the section on [Updating a hack](#updating)).
 
