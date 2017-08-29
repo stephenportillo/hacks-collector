@@ -1,40 +1,23 @@
-- dotastro1:
+- astrohackweek14:
     id: 1
-    date: September 22nd-24th 2008
-    venue: Cardiff University
-    loc: Robert Simpson
-- dotastro2:
+    date: 15th – 19th Sep 2014
+    venue: University of Washington, Seattle, USA
+    soc: Jake VanderPlas
+
+- astrohackweek15:
     id: 2
-    date: November 30 – Dec 4, 2009
-    venue: Lorentz Centre, Leiden
-    loc: Sarah Kendrew, Carolina Ödman
-- dotastro3:
+    date: 28th Aug – 1st Sep 2017
+    venue: University of Washington, Seattle, USA
+    soc: Lauren Anderson, Kyle Barbary, David W. Hogg, Daniela Huppenkothen, Phil Marshall, Meredith Rawls, Jake VanderPlas
+
+- astrohackweek16:
     id: 3
-    venue: New College, Oxford
-    date: April 4-8, 2011
-    loc: Robert Simpson, Chris Lintott, Arfon Smith
-- dotastro4:
+    date: 29th Aug – 2nd Sep 2017
+    venue: Berkeley, CA, USA
+    soc: Kyle Barbary, Phil Marshall, David W. Hogg, Daniela Huppenkothen, Jake VanderPlas, Yu Feng, Grigor Aslanyan
+
+- astrohackweek17:
     id: 4
-    date: July 9-11, 2012
-    venue: Haus der Astronomie and the International Wissenschaft Forum, Heidelberg
-    loc: Sarah Kendrew, Markus Pöessel, Tom Robitaille
-- dotastro5:
-    id: 5
-    date: September 16-18, 2013
-    venue: New England Research & Development Center, Cambridge, Massachusetts
-    loc: August Muench, Jenine Humber, Alyssa Goodman, José Galache, Louise Rubin, Sarah Block, Alberto Pepe
-- dotastro6:
-    id: 6
-    date: December 8-10, 2014
-    venue: Adler Planetarium, Chicago, Illinois, USA
-    loc: Laura Trouille, Lucianne Walkowicz, Laura Whyte
-- dotastro7:
-    id: 7
-    date: November 3-6, 2015
-    venue: Justice & Police Museum, Sydney CBD, Australia
-    loc: Amanda Bauer, Vanessa Moss, Arna Karick, James Allen, Rob Hollow
-- dotastro8:
-    id: 8
-    date: 20th – 23rd June 2016
-    venue: Pembroke College, Oxford, UK
-    loc: Becky Smethurst, Chris Lintott, Sarah Kendrew, Edward Gomez, Ruth Angus, Mark Richardson, Sandor Kruk, Ellen Schallig, Sam Vaughan
+    date: 28th Aug – 1st Sep 2017
+    venue: University of Washington, Seattle, USA
+    soc: Lauren Anderson, Kyle Barbary, David W. Hogg, Daniela Huppenkothen, Phil Marshall, Meredith Rawls, Jake VanderPlas

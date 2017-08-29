@@ -8,7 +8,7 @@ import copy
 import shutil
 
 
-DATA_DIR_PATTERN = 'dotastro*'
+DATA_DIR_PATTERN = 'astrohackweek*'
 README_NAME = 'README.md'
 YAML_TEMPLATE = 'template.yml'
 EVENTS_FILE = 'events.yml'

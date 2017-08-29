@@ -13,7 +13,7 @@ deploy:
     provider: script
     script: site_generator/travis_deploy
     on:
-        repo: dotastro/hacks-collector
+        repo: AstroHackWeek/hacks-collector
         branch: master
 
 env:
