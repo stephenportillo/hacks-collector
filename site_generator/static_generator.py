@@ -12,7 +12,7 @@ DATA_DIR_PATTERN = 'astrohackweek*'
 README_NAME = 'README.md'
 YAML_TEMPLATE = 'template.yml'
 EVENTS_FILE = 'events.yml'
-LOGO_FILE = 'dotlogo_black.png'
+LOGO_FILE = 'ahw_logo.png'
 
 OUTPUT_DIR = 'site_generator/html'
 
