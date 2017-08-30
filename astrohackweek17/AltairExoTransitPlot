@@ -1,0 +1,12 @@
+title: HATS-7b Exoplanet Transit Plot in Altair
+creators:
+    - Ellianna Schwab
+    - Itamar Reis
+description: >
+Jupyter notebook of Jake VanderPlas's Altair tutorial (https://altair-viz.github.io/tutorials/getting-started.html) 
+and Altair version of figure 1 from Bakos et al. 2015, 
+which indicates the transit of HATS-7b in the lightcurve of HATS-7.
+source-url: https://github.com/elliesch/PlotLibrary/blob/master/HATS-7b.ipynb
+contact-github: elliesch
+orcid: orcid.org/0000-0002-9879-1183
+images: https://raw.githubusercontent.com/elliesch/PlotLibrary/master/transitplot.png
