@@ -17,7 +17,7 @@ which you can modify later if desired (see the section on [Updating a hack](#upd
 
 ## Submitting a hack via GitHub
 
-###Creating the file
+### Creating the file
 
 First navigate to the correct conference folder e.g.
 [astrohackweek17](https://github.com/astrohackweek/hacks-collector/tree/master/astrohackweek17),
