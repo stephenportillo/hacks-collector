@@ -1,7 +1,7 @@
-# List of .Astronomy hacks
+# List of Astro Hack Week hacks
 
 This repository is intended to contain information about all hacks (coding or otherwise) that have
-been carried out as part of the .Astronomy meetings. Each meeting has a folder
+been carried out as part of the Astro Hack Weeks. Each meeting has a folder
 which in turn contains one file for each hack. Adding a file to this repository
 is easy, and we describe the file format and the steps to take to add a file
 below.
@@ -97,7 +97,7 @@ pull request.
 Make sure you give an appropriate commit message and then click on the big
 green "Propose new file" button.
 
-This will then set up a pull request for you and will let the .Astronomy team
+This will then set up a pull request for you and will let the Astro Hack Week team
 know that you would like your hack added to this repo and then if everything
 is ok with your submitted .yml file and it passes our tests then we'll merge
 your changes.
@@ -109,7 +109,7 @@ Ta Da! Your hack is now archived for the joy of future generations!
 Whether you submit a hack via the web form or via GitHub, subsequent updates
 should be done via GitHub. Assuming that the hack entry you want to edit is
 inside the main [hacks-collector](http://github.com/astrohackweek/hacks-collector) repository,
-navigate to the folder for the relevant .Astronomy meeting, then click on the
+navigate to the folder for the relevant Astro Hack Week meeting, then click on the
 file you want to edit. Once the contents of the file show, click on the pen
 icon in the upper right to edit the file:
 
