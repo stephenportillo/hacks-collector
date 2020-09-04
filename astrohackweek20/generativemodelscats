@@ -1,0 +1,14 @@
+title: Comparing generative models using cats
+creators:
+    - Lavanya Nemani
+    - Stephen Portillo
+    - Steven Stetzler
+    - Jorge Martínez Palomera
+    - Ellie Abrahams
+    - Martin Schlecker
+    - Bolivia Cuevas-Otahola
+    - Sameh
+description: >
+  We trained different generative models (autoencoder, VAE, PAE, GAN, WGAN,
+  RealNVP) on the same set of 16000 cat images and compared reconstructions,
+  synthetic samples, and latent space structure
