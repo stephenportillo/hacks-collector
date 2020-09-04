@@ -1,0 +1,16 @@
+title: Machine learning applied to open cluster identification
+creators:
+    - Andrei Igoshev
+    - Catarina Alves
+    - Ernest Glukhov
+    - Marcin Marculewicz
+    - Mariia Demianenko
+    - Tarun Ruchandani
+description: > Code to verify if a collection of stars found in the Gaia database is an open cluster.
+Clustering algorithms (e.g. DBSCAN) returns tens of cluster candidates for every few square degrees
+of the sky area when they are applied to the Gaia DR2 database data. In reality some of these cluster 
+candidates are not open clusters but rather are fluctuations of the Galactic disk stellar population.
+These collections of stars are expected to have very different ages, absorptions and metallicities. 
+In this repository we train random forest and convolutional neural network to distiungush between 
+actual open cluster and general Galactic disk population.
+source-url: https://github.com/ignotur/Random-forest-open-cluster
